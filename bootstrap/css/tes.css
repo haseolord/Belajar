@@ -1,0 +1,8 @@
+tbody tr td a:link, a:visited { 
+    color: #000;
+    cursor: auto;
+}
+
+a:link:active, a:visited:active { 
+    color: (black);
+}
